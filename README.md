@@ -1,2 +1,2 @@
-# adogba-personal-portfolio.github.io
+# personal-portfolio
 My Personal Portolio website.
