@@ -10,6 +10,7 @@
   "author": "Alvin Dogba Jr",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "serve-static": "^1.15.0"
   }
 }
